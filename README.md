@@ -1,6 +1,6 @@
 # WashingMachineDemo
 Small rest demo application with backend service to control a washing machine. 
-Fat jar is attached.
+Fat jar can be found in zip archive.
 
 No frontend, but can be tested with curl. Examples:
 
